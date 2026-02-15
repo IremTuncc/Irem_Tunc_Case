@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Insider QA Jobs Test Suite">
+    <test name="Insider QA Jobs - End to End Tests">
+        <classes>
+            <class name="tests.InsiderTests"/>
+        </classes>
+    </test>
+</suite>
